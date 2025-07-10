@@ -55,7 +55,3 @@ This script is run **inside Blender**. It:
 
 * “Model a glass of water with a transparent glass and blue water inside.”
 * “Create a realistic burger with bun, patty, cheese, and lettuce.” lol
-
-## 📌 Note
-
-This is an experimental and creative project meant for learning and showcasing my potential of prompt-based 3D model generation.
