@@ -1,6 +1,6 @@
 ## **PromptTo3D**
 
-**PromptTo3D** is an AI-powered tool that lets you generate 3D models in Blender using natural language prompts. It connects a local LLM like Gemini with Blender via the MCP (Model Control Protocol), allowing users to script Blender scenes just by describing them.
+**PromptTo3D** is an AI-powered tool that lets you generate 3D models in Blender using natural language prompts. It connects a local LLM like Gemini with Blender, allowing users to script Blender scenes just by describing them.
 
 ## 🚀 How It Works
 
